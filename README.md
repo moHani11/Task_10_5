@@ -21,3 +21,9 @@ By doing simple integration to the velocity with respect to time we get the foll
 > YAW = gyroZ*time_diffrence
 
 ---
+
+## Notes:
+- Important code parts are explained in the code comments 
+- All Registers addresses in the code is taken from the data sheet
+[MPU6050 daatsheet](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
+[MPU6050 Registers daatsheet](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf)
